@@ -1,4 +1,4 @@
-quarkcoin-hash-python
-=====================
+module quark_hash
 
-Python module with quarkcoin's hashing algorithm used by some other tools
+1. git clone https://github.com/Oxygencoin/quark_hash
+2. sudo python setup.py install
